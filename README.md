@@ -2,8 +2,7 @@
 
 This simple application prototype shows how we can use React and Redux to build a friendly user experience with instant visual updates.
 
-## Demo
-[Here](https://my-shopping-cart-leawwzhsmf.now.sh/)
+
 
 ## Features
 * Add and remove items 
